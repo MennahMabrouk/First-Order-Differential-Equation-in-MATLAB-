@@ -44,7 +44,7 @@ ylim([-0.82 1.19]);
 ```
 The resulting graph will show the solution to the differential equation over the interval [0, 20].
 
-Feel free to modify the code with your own differential equation and initial conditions to solve a different problem.
+> Feel free to modify the code with your own differential equation and initial conditions to solve a different problem.
 
 
 
